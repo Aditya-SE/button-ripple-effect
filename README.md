@@ -1,3 +1,3 @@
-i will complete this button, before 15/11/2025
+i will complete this button.
 
 delay reason: EXAMS
