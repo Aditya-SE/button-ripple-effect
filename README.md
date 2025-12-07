@@ -6,6 +6,7 @@ When you click on the button, a ripple animation radiates outwards — giving a 
 ## Technologies Used 
 - HTML  
 - CSS  
-- JavaScript
+- Javascript
+
 
 
